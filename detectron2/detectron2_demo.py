@@ -58,6 +58,7 @@ trainer.resume_or_load(resume=False)
 trainer.train()
 
 
+
 cfg.MODEL.WEIGHTS = os.path.join(cfg.OUTPUT_DIR, "model_final.pth")
 cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.5 
 cfg.DATASETS.TEST = ("fruit_test", )
