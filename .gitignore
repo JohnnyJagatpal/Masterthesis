@@ -4401,3 +4401,4 @@ Datasets/coco-fruit/validation/data/000000575500.jpg
 Datasets/coco-fruit/validation/data/000000575970.jpg
 Datasets/coco-fruit/validation/data/000000577539.jpg
 Datasets/coco-fruit/validation/data/000000581781.jpg
+detectron2/output/model_final.pth
